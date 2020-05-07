@@ -257,6 +257,9 @@ header {
 /* HOW IT WORKS SECTION  */
 /*-------------------------------------*/
 
+.section-steps{
+    background-color: #f4f4f4;
+}
 
 .steps-box{
     margin-top:30px;
